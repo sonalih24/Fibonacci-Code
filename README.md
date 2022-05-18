@@ -1,5 +1,5 @@
 # Fibonacci-Code
-This code shows a built utility by myself that allows the user to generate a list of the first N Fibonacci numbers, find and display the ith Fibonacci number, generate a list of Fibonacci numbers up to and possibly including the positive integer N, and find a list of Fibonacci numbers that add up to a non-negative integer N.
+This code shows a utility I built that allows the user to generate a list of the first N Fibonacci numbers, find and display the ith Fibonacci number, generate a list of Fibonacci numbers up to and possibly including the positive integer N, and find a list of Fibonacci numbers that add up to a non-negative integer N.
 My program prints out an initial welcome message and a list of available commands. I have assigned 7 possible commands, which will be entered as a numeral between 0 and 6. Here are the available commands:
 
   0: Exit.
