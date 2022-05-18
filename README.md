@@ -1,7 +1,10 @@
 # Number Theory Through Fibonacci Numbers
 The Fibonacci sequence (where F(i) is the ith element of the sequence) is defined by the following equations:
+
 F(0) = 0
+
 F(1) = 1
+
 F(n) = F(n-2) + F(n-1), for n > 1
 
 This code shows a utility I built that allows the user to generate a list of the first N Fibonacci numbers, find and display the ith Fibonacci number, generate a list of Fibonacci numbers up to and possibly including the positive integer N, and find a list of Fibonacci numbers that add up to a non-negative integer N.
